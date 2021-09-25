@@ -9,6 +9,7 @@ public class CartTest {
 	
 	@Test
 	public void testCart() {
+		System.out.println("add to cart step");
 		Assert.assertEquals(true, true);
 	}
 }
